@@ -30,4 +30,17 @@ I'm Bishal, a passionate web developer with a love for creating beautiful and fu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
 </p>
 
+## Connect with Me  
+<p>
+  <a href="https://www.linkedin.com/in/bishal-dhakal-1387b9158/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/bishal.dhakaal/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/bisal_xetri/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40"/>
+  </a>
+</p>
+
 
